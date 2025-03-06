@@ -1,0 +1,1 @@
+champ_test_message = 'helped out team in crisis'
